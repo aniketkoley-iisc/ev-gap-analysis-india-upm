@@ -1,0 +1,13 @@
+﻿__pycache__/
+*.py[cod]
+*.class
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+*.pbf
+*.sqlite
+data/bronze/*.pbf
+data/bronze/external_repos/
+.DS_Store
+Thumbs.db
