@@ -1,6 +1,6 @@
 ﻿# EV Adoption and Charging Infrastructure Gap Analysis in India
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aniketkoley-iisc/ev-gap-analysis-india-upm/blob/main/notebooks/01_HDFS_Lakehouse_and_FullScale_Bronze_Ingestion.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aniketkoley-iisc/ev-gap-analysis-india-upm/blob/main/notebooks/ev-gap-analysis-india-upm.ipynb)
 
 **Course:** Data Engineering at Scale (DSBA DA-231-O), IISc Bangalore
 **Instructor:** Prof. Yogesh Simmhan
